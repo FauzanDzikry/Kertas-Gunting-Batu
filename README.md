@@ -1,6 +1,7 @@
 # Kertas-Gunting-Batu
 Program Kertas gunting batu beserta quiz &amp; gatcha;
---- PERATURAN GAME KERTAS GUNTING BATU ---
+
+  PERATURAN GAME KERTAS GUNTING BATU
 1. Jika memenangkan permainan akan mendapatkan Tiket Keberuntungan
 2. Tiket Keberuntungan dapat dipakai untuk mendapatkan hadiah menarik
 3. Jika kalah dalam permainan akan mendapatkan Hukuman
